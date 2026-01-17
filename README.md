@@ -1,13 +1,15 @@
 ```haskell
 
-Shivam-Singh.in
-------------
+shivam-singh.in 
+---------------
 
-Where        •   aws, github
+Where        •   Haryana, India
 OS           •   linux
-Language     •   js, python
-G-Mail       •   shivam.singxh
-Notes        •   For Everything having a reason 
+Language     •   English, Hindi
+GMail        •   shivam.singxh
+Notes        •   I believe everything exists for a reason.
+
+This space is where I document learning, experimentation, and ideas that matter.
 
 ```
 
