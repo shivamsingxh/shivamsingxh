@@ -1,6 +1,6 @@
 ```haskell
 
-Shivam-Singh.com
+Shivam-Singh.in
 ------------
 
 Where        •   aws, github
